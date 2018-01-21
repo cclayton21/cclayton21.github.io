@@ -1,0 +1,492 @@
+{
+  "flags": 6,
+  "difficulty": "easy",
+   "sampleGrid": [
+      {
+         "number": 10,
+         "hasMine": true,
+         "hasFlag": false,
+         "clickAble": true
+      },
+      {
+        "number": 10,
+        "hasMine": false,
+        "hasFlag": false,
+        "clickAble": true
+      },
+      {
+         "number": 10,
+         "hasMine": false,
+         "hasFlag": false,
+         "clickAble": true
+      },
+      {
+         "number": 10,
+         "hasMine": false,
+         "hasFlag": false,
+         "clickAble": true
+      },
+      {
+         "number": 10,
+         "hasMine": false,
+         "hasFlag": false,
+         "clickAble": true
+      },
+      {
+         "number": 10,
+         "hasMine": false,
+         "hasFlag": false,
+         "clickAble": true
+      },
+      {
+         "number": 10,
+         "hasMine": false,
+         "hasFlag": false,
+         "clickAble": true
+      },
+      {
+         "number": 10,
+         "hasMine": false,
+         "hasFlag": false,
+         "clickAble": true
+      },
+      {
+         "number": 10,
+         "hasMine": false,
+         "hasFlag": false,
+         "clickAble": true
+      },
+      {
+         "number": 10,
+         "hasMine": false,
+         "hasFlag": false,
+         "clickAble": true
+      },
+      {
+        "number": 10,
+        "hasMine": false,
+        "hasFlag": false,
+        "clickAble": true
+      },
+      {
+         "number": 10,
+         "hasMine": false,
+         "hasFlag": false,
+         "clickAble": true
+      },
+      {
+         "number": 10,
+         "hasMine": false,
+         "hasFlag": false,
+         "clickAble": true
+      },
+      {
+         "number": 10,
+         "hasMine": true,
+         "hasFlag": false,
+         "clickAble": true
+      },
+      {
+         "number": 10,
+         "hasMine": false,
+         "hasFlag": false,
+         "clickAble": true
+      },
+      {
+         "number": 10,
+         "hasMine": true,
+         "hasFlag": false,
+         "clickAble": true
+      },
+      {
+         "number": 10,
+         "hasMine": false,
+         "hasFlag": false,
+         "clickAble": true
+      },
+      {
+         "number": 10,
+         "hasMine": false,
+         "hasFlag": false,
+         "clickAble": true
+      },
+      {
+         "number": 10,
+         "hasMine": false,
+         "hasFlag": false,
+         "clickAble": true
+      },
+      {
+        "number": 10,
+        "hasMine": false,
+        "hasFlag": false,
+        "clickAble": true
+      },
+      {
+         "number": 10,
+         "hasMine": true,
+         "hasFlag": false,
+         "clickAble": true
+      },
+      {
+         "number": 10,
+         "hasMine": false,
+         "hasFlag": false,
+         "clickAble": true
+      },
+      {
+         "number": 10,
+         "hasMine": false,
+         "hasFlag": false,
+         "clickAble": true
+      },
+      {
+         "number": 10,
+         "hasMine": false,
+         "hasFlag": false,
+         "clickAble": true
+      },
+      {
+         "number": 9,
+         "hasMine": true,
+         "hasFlag": true,
+         "clickAble": false
+      },
+      {
+         "number": 3,
+         "hasMine": false,
+         "hasFlag": false,
+         "clickAble": false
+      },
+      {
+         "number": 9,
+         "hasMine": true,
+         "hasFlag": true,
+         "clickAble": false
+      },
+      {
+        "number": 9,
+        "hasMine": true,
+        "hasFlag": true,
+        "clickAble": false
+      },
+      {
+        "number": 9,
+        "hasMine": true,
+        "hasFlag": true,
+        "clickAble": false
+      },
+      {
+         "number": 3,
+         "hasMine": false,
+         "hasFlag": false,
+         "clickAble": false
+      },
+      {
+        "number": 9,
+        "hasMine": true,
+        "hasFlag": true,
+        "clickAble": false
+      },
+      {
+         "number": 1,
+         "hasMine": false,
+         "hasFlag": false,
+         "clickAble": false
+      },
+      {
+        "number": 1,
+        "hasMine": false,
+        "hasFlag": false,
+        "clickAble": false
+      },
+      {
+        "number": 1,
+        "hasMine": false,
+        "hasFlag": false,
+        "clickAble": false
+      },
+      {
+        "number": 2,
+        "hasMine": false,
+        "hasFlag": false,
+        "clickAble": false
+      },
+      {
+        "number": 1,
+        "hasMine": false,
+        "hasFlag": false,
+        "clickAble": false
+      },
+      {
+        "number": 2,
+        "hasMine": false,
+        "hasFlag": false,
+        "clickAble": false
+      },
+      {
+        "number": 2,
+        "hasMine": false,
+        "hasFlag": false,
+        "clickAble": false
+      },
+      {
+        "number": 2,
+        "hasMine": false,
+        "hasFlag": false,
+        "clickAble": false
+      },
+      {
+        "number": 1,
+        "hasMine": false,
+        "hasFlag": false,
+        "clickAble": false
+      },
+      {
+        "number": 1,
+        "hasMine": false,
+        "hasFlag": false,
+        "clickAble": false
+      },
+      {
+        "number": 0,
+        "hasMine": false,
+        "hasFlag": false,
+        "clickAble": false
+      },
+      {
+        "number": 0,
+        "hasMine": false,
+        "hasFlag": false,
+        "clickAble": false
+      },
+      {
+        "number": 0,
+        "hasMine": false,
+        "hasFlag": false,
+        "clickAble": false
+      },
+      {
+        "number": 0,
+        "hasMine": false,
+        "hasFlag": false,
+        "clickAble": false
+      },
+      {
+        "number": 0,
+        "hasMine": false,
+        "hasFlag": false,
+        "clickAble": false
+      },
+      {
+        "number": 0,
+        "hasMine": false,
+        "hasFlag": false,
+        "clickAble": false
+      },
+      {
+        "number": 0,
+        "hasMine": false,
+        "hasFlag": false,
+        "clickAble": false
+      },
+      {
+        "number": 0,
+        "hasMine": false,
+        "hasFlag": false,
+        "clickAble": false
+      },
+      {
+        "number": 0,
+        "hasMine": false,
+        "hasFlag": false,
+        "clickAble": false
+      },
+      {
+        "number": 0,
+        "hasMine": false,
+        "hasFlag": false,
+        "clickAble": false
+      },
+      {
+        "number": 1,
+        "hasMine": false,
+        "hasFlag": false,
+        "clickAble": false
+      },
+      {
+        "number": 1,
+        "hasMine": false,
+        "hasFlag": false,
+        "clickAble": false
+      },
+      {
+        "number": 1,
+        "hasMine": false,
+        "hasFlag": false,
+        "clickAble": false
+      },
+      {
+        "number": 0,
+        "hasMine": false,
+        "hasFlag": false,
+        "clickAble": false
+      },
+      {
+        "number": 0,
+        "hasMine": false,
+        "hasFlag": false,
+        "clickAble": false
+      },
+      {
+        "number": 0,
+        "hasMine": false,
+        "hasFlag": false,
+        "clickAble": false
+      },
+      {
+        "number": 0,
+        "hasMine": false,
+        "hasFlag": false,
+        "clickAble": false
+      },
+      {
+        "number": 0,
+        "hasMine": false,
+        "hasFlag": false,
+        "clickAble": false
+      },
+      {
+        "number": 0,
+        "hasMine": false,
+        "hasFlag": false,
+        "clickAble": false
+      },
+      {
+        "number": 1,
+        "hasMine": false,
+        "hasFlag": false,
+        "clickAble": false
+      },
+      {
+         "number": 9,
+         "hasMine": true,
+         "hasFlag": true,
+         "clickAble": false
+      },
+      {
+        "number": 1,
+        "hasMine": false,
+        "hasFlag": false,
+        "clickAble": false
+      },
+      {
+        "number": 0,
+        "hasMine": false,
+        "hasFlag": false,
+        "clickAble": false
+      },
+      {
+        "number": 0,
+        "hasMine": false,
+        "hasFlag": false,
+        "clickAble": false
+      },
+      {
+        "number": 0,
+        "hasMine": false,
+        "hasFlag": false,
+        "clickAble": false
+      },
+      {
+        "number": 0,
+        "hasMine": false,
+        "hasFlag": false,
+        "clickAble": false
+      },
+      {
+        "number": 0,
+        "hasMine": false,
+        "hasFlag": false,
+        "clickAble": false
+      },
+      {
+        "number": 0,
+        "hasMine": false,
+        "hasFlag": false,
+        "clickAble": false
+      },
+      {
+        "number": 1,
+        "hasMine": false,
+        "hasFlag": false,
+        "clickAble": false
+      },
+      {
+        "number": 1,
+        "hasMine": false,
+        "hasFlag": false,
+        "clickAble": false
+      },
+      {
+        "number": 1,
+        "hasMine": false,
+        "hasFlag": false,
+        "clickAble": false
+      },
+      {
+        "number": 0,
+        "hasMine": false,
+        "hasFlag": false,
+        "clickAble": false
+      },
+      {
+        "number": 0,
+        "hasMine": false,
+        "hasFlag": false,
+        "clickAble": false
+      },
+      {
+        "number": 0,
+        "hasMine": false,
+        "hasFlag": false,
+        "clickAble": false
+      },
+      {
+        "number": 0,
+        "hasMine": false,
+        "hasFlag": false,
+        "clickAble": false
+      },
+      {
+        "number": 0,
+        "hasMine": false,
+        "hasFlag": false,
+        "clickAble": false
+      },
+      {
+        "number": 0,
+        "hasMine": false,
+        "hasFlag": false,
+        "clickAble": false
+      },
+      {
+        "number": 0,
+        "hasMine": false,
+        "hasFlag": false,
+        "clickAble": false
+      },
+      {
+        "number": 0,
+        "hasMine": false,
+        "hasFlag": false,
+        "clickAble": false
+      },
+      {
+        "number": 0,
+        "hasMine": false,
+        "hasFlag": false,
+        "clickAble": false
+      }
+   ]
+}
