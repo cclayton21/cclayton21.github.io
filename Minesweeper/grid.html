@@ -1,0 +1,31 @@
+<html>
+	<head>
+		<title>Grid</title>
+		<link rel="stylesheet" href="style.css">
+		<script src="model.js"></script>
+		<script src="view.js"></script>
+	</head>
+
+	<body oncontextmenu="return false;">
+		<div class="top">
+			<div class="sides">	<div id="control">
+				<div id="info"># Flags: <div id="flagNum">0</div>  # Mines: <div id="mineNum">0</div></div>
+				Welcome to MineSweeper!!<br>
+				Select your difficulty:
+				<select name="select" id="select">
+					<option value="easy">Easy</option>
+					<option value="medium">Medium</option>
+					<option value="hard">Hard</option>
+				</select>
+				<br>
+				<button onclick="startGame()">Click to Start</button>
+				<input type="checkbox" id="cbox">
+  			<label for="cbox">Load saved game?</label><br>
+			</div>
+				<div id="gridDiv"></div>
+			</div>
+		</div>
+	</body>
+	<audio src="explode.mp3" id="audio"></audio>
+	<audio src="click.wav" id="clickSound"></audio>
+</html>
