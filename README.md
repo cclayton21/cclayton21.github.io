@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # The Leap day theme
 
 [![Build Status](https://travis-ci.org/pages-themes/leap-day.svg?branch=master)](https://travis-ci.org/pages-themes/leap-day) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-leap-day.svg)](https://badge.fury.io/rb/jekyll-theme-leap-day)
@@ -107,3 +108,8 @@ If you'd like to preview the theme locally (for example, in the process of propo
 ### Running tests
 
 The theme contains a minimal test suite, to ensure a site with the theme would build successfully. To run the tests, simply run `script/cibuild`. You'll need to run `script/bootstrap` one before the test script will work.
+=======
+# cclayton21.github.io
+connorclayton.me
+A website used to showcase my portfolio
+>>>>>>> cbbfe7257f2d8cb5dd0bc993f469fa285acd4245

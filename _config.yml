@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 title: Leap Day theme
 description: Leap Day is a theme for GitHub Pages.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-leap-day
+=======
+
+theme: jekyll-theme-leap-day
+>>>>>>> cbbfe7257f2d8cb5dd0bc993f469fa285acd4245
