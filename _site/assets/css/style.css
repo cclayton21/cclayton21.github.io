@@ -727,7 +727,8 @@ header {
     height: 40px;
     padding: 0;
     float: left;
-    margin-left: 10px; }
+    margin-left: 10px;
+    line-height: 49px; }
     #banner ul li {
       display: inline; }
       #banner ul li a.button {
