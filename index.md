@@ -8,7 +8,13 @@ layout: default
 
 **Rhone Apparel,** Draper Utah -- _Web Developer_  
 _April 2017 - Present_  
-(For the most part) Front end development on a small in-house development team for an eCommerce store.
+
+* Full stack web development on a small in-house team for an eCommerce store 
+* Maintain and update website 
+* Built and maintain Android mobile application 
+* Develop solutions for internal needs 
+* Sync custom front end, with Shopify backend
+
 
 **Utah Valley University,** Orem Utah -- _Computer Science Grader_  
 _August 2016 - May 2017_  
@@ -52,3 +58,8 @@ Experience with other development platforms and frameworks
 * Video games
 * Exercise and all things active
 * Programming of course -- a lot of my free time is spent learning new technologies and working on side projects for myself or for someone I know.
+* My dog
+![CHIP1](assets/images/Chip1.jpg)
+![CHIP2](assets/images/Chip2.jpg)
+![CHIP3](assets/images/Chip3.jpg)
+![CHIP4](assets/images/Chip4.jpg)
