@@ -6,7 +6,7 @@ layout: default
 
 ## Experience
 
-**CallCorp,** Lehi Utah -- _Professional Services Developer_
+**CallCorp,** Lehi Utah -- _Professional Services Developer_<br>
 _March 2019 - Present_
 
 * Develop specific solutions for clients on a core platform
