@@ -7,7 +7,7 @@ layout: default
 ## Experience
 
 **Rhone Apparel,** Draper Utah -- _Web Developer_  
-_April 2017 - Present_  
+_April 2017 - March 2019_  
 
 * Full stack web development on a small in-house team for an eCommerce store 
 * Maintain and update website 
