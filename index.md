@@ -6,6 +6,13 @@ layout: default
 
 ## Experience
 
+**CallCorp,** Lehi Utah -- _Professional Services Developer_
+_March 2019 - Present_
+
+* Develop specific solutions for clients on a core platform
+* Develop 3rd party integrations to the core platform (Salesforce, Zoho, Zendesk)
+* Develop core features on the existing platform
+
 **Rhone Apparel,** Draper Utah -- _Web Developer_  
 _April 2017 - March 2019_  
 
@@ -22,9 +29,9 @@ Grader/Teacher Assistant for college computer science courses.
 
 ## Education
 
-**Utah Valley University,** Orem Utah -- _BS-Computer Science-In Progress_  
-_August 2015 - Present_  
-Senior planning to graduate in April 2019. 3.52 Cumulative GPA.
+**Utah Valley University,** Orem Utah -- _Bachelor of Science in Computer Science, emphasis in Computer Science_  
+_August 2015 - May 2019_  
+GPA of 3.46
 
 **Spanish Fork High School,** -- _High School Diploma_  
 _May 2013_  
@@ -63,3 +70,7 @@ Experience with other development platforms and frameworks
 ![CHIP2](assets/images/Chip2.jpg)
 ![CHIP3](assets/images/Chip3.jpg)
 ![CHIP4](assets/images/Chip4.jpg)
+![CHIP5](assets/images/Chip5.jpg)
+![CHIP6](assets/images/Chip6.jpg)
+![CHIP7](assets/images/Chip7.jpg)
+![CHIP8](assets/images/Chip8.jpg)
